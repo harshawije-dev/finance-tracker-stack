@@ -1,0 +1,14 @@
+{
+  "name": "finance-tracker",
+  "version": "1.0.0",
+  "description": "Production app for managing daily and mothly expences in automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "semicolen",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^7.6.0"
+  }
+}
